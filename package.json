@@ -1,0 +1,9 @@
+{
+  "name": "biobot-api",
+  "version": "1.0.0",
+  "description": "BioBot API — serverless backend for BioDailyy chatbot",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
